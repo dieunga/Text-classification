@@ -1,1 +1,1 @@
-# Text-recognition-PaddleOCR-vietocr
+# Text-classification
