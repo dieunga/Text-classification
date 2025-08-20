@@ -41,6 +41,7 @@ Ví dụ đầu ra:
 pip install ultralytics vietocr pdf2image PyPDF2 numpy==2.0
 sudo apt-get install poppler-utils
 ```
+*Cần phải cài poppler để có thể chạy 2 thư viện pdf2image và PyPDF2*
 
 # Các nhãn phân loại 
 Danh sách các loại nhãn có sẵn:
