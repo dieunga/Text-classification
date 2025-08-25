@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/sample_intern1/output/img_first_pages1
+val: /content/drive/MyDrive/sample_intern1/output/img_first_pages1
+
+nc: 1
+
+names: ['container']
