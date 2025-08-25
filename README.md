@@ -15,6 +15,9 @@ Dự án này thực hiện phân loại văn bản hành chính/luật từ fil
 ### 2. Crop ảnh bằng YOLO
 * Dùng mô hình YOLO (title_crop.pt) để phát hiện vùng tiêu đề trong ảnh
 * Cắt tiêu đề thành ảnh nhỏ hơn và lưu tại ```output/test/```
+* Output ảnh:
+
+    ![output](/output/mophong.png)
 
 ### 3. Nhận dạng văn bản
 * Dùng mô hình YOLO ```text_det_best.pt``` để detect các vùng chứa chữ
